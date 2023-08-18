@@ -1,6 +1,8 @@
 // Copyright 2023 lendunistus
 // SPDX-License-Identifier: GPL-2.0-or-later
 
+#include "quantum.h"
+
 #pragma once
 
-#define WS2812_PIO_USE_PIO1
+#define CAPS_LOCK_ENABLE
